@@ -1,0 +1,6 @@
+{
+  "name": "Urban Fishstick - Nairobi Matatu Transit & Time Freedom",
+  "description": "Nairobi matatu booking and transit psychology platform with real-time GPS telemetry radar, Google Calendar meeting sync, Google Drive commute ledger exports, Sheng crew desk, and 100% office delay auto-refunds.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
